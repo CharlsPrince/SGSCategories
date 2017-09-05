@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SGSCategories_Example' do
+  pod 'SGSCategories', :path => '../'
+
+  target 'SGSCategories_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module SGSCategories {
+  umbrella header "SGSCategories-umbrella.h"
+
+  export *
+  module * { export * }
+}

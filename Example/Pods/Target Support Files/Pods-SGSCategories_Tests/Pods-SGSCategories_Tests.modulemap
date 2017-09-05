@@ -1,0 +1,6 @@
+framework module Pods_SGSCategories_Tests {
+  umbrella header "Pods-SGSCategories_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
